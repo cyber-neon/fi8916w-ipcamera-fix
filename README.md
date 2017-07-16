@@ -1,5 +1,8 @@
 # fi8916w-ipcamera-fix
 fix your bricked fi8916w ipcamera
+
+
+
 all what you need are in new FI8908W Recovery - 2010.zip :).
 
 open tera term
