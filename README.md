@@ -31,7 +31,7 @@ send file xmodem in tera term
 
 type" boot "enter"
 
-afer that login your ipcamera webpage
+after that login your ipcamera webpage
 
 webui are http://(ip)index.htm. without this ipcamera says error 404 not found
 
