@@ -4,7 +4,7 @@ uart to usb you ipcamera and select your com port
 after that press setup and serial port baud rate 15200.
 power ipcamera and press Esc fast to get in bootmode.
 
-now type del 6 "Enter" and del 7 "Enter"
+now type" del 6 "Enter" and del 7 "Enter"
 
 
 
