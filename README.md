@@ -16,6 +16,8 @@ now type" del 6 "Enter" and del 7 "Enter"
 
 
 type" fx 6 romfs.img 0x7f0e0000 0x7f0e0000 -a "Enter"
+
+
 and press file and transfer and 
 send file xmodem in tera term
 
