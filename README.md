@@ -15,15 +15,15 @@ now type" del 6 "Enter" and del 7 "Enter"
 
 
 
-type" fx 6 romfs.img 0x7f0e0000 0x7f0e0000 -a
+type" fx 6 romfs.img 0x7f0e0000 0x7f0e0000 -a "Enter"
 and press file and transfer and 
 send file xmodem in tera term
 
-type" fx 7 linux.zip 0x7f020000 0x8000 -acxz
+type" fx 7 linux.zip 0x7f020000 0x8000 -acxz "Enter"
 
 send file xmodem in tera term
 
-type" fx 8 webui.bin 0x7f200000 0x7f200000 -a
+type" fx 8 webui.bin 0x7f200000 0x7f200000 -a "Enter"
 
 send file xmodem in tera term
 
